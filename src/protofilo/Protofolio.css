@@ -1,0 +1,21 @@
+.col{
+    background-color: rgb(76, 76, 76);
+    /* padding: 80px; */
+    /* margin-top: 30px; */
+    /* margin-left: auto; */
+    text-align: center;
+    align-items: center;
+    box-shadow: 5px 10px 10px #888888;
+    /* justify-content:space-around */
+}
+.col1{
+    background-color: rgb(161, 159, 159);
+    /* padding: 80px; */
+    /* margin-top: 30px;
+    margin-left: auto; */
+    text-align: center;
+    align-items: center;
+    box-shadow: 5px 10px 10px #888888;
+    /* justify-content:space-around */
+
+}

@@ -1,0 +1,15 @@
+
+.butt{
+border:1px solid white;
+background-color:inherit;
+color:white;
+border-radius:5px;
+padding:10px 15px;
+font-size:16px
+}
+.butt :Hover{
+   background-color: aliceblue;
+   color: #000;
+   pointer-events: painted;
+}
+/* export  */
